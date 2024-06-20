@@ -4,18 +4,18 @@
   <tbody>
     <tr>
       <td><img src="yukari/yukari_by_sairalina-d8jsywr.png?raw=true" width="300" style="transform: rotate(-10deg); margin: -50px 0" /></td>
-      <td><h3 style="margin-left: -50px">A full-stack developer and Flutter enthusiast from Indonesia. I've developed many Flutter app. I also a modern web programmer & designer, and former Android (Kotlin) developer.</h3></td>
+      <td><h3 style="margin-left: -50px">Professional software engineer, mobile & web app developer. Skilled in multi-platform app development for Android, iOS, web, and more.</h3></td>
     </tr>
   </tbody>
 </table>
 
-- 👨‍💼 CEO of **TaufikNur Production**, CTO of **Creactive Indonesia**, Software Engineer of Nurosoft Indonesia, Shareholder of Tesla, Inc.
+- 👨‍💼 CEO & Founder of **Birv Teknologi Sejahtera**, CTO of **Creactive Indonesia**, Software Engineer of Nurosoft Indonesia
 
 - 👨‍💻 Want to see my projects? Check out [My Website](https://www.taufiknur.com/)
 
 - 📄 Know about my experiences from [My Resume](https://www.linkedin.com/in/taufik-nur-rahmanda/)
 
-- 🔭 I’m currently learning **Flutter**
+- 🔭 I’m currently very active in **Flutter (Dart)**
 
 - 💬 Ask me about **Flutter**
 
