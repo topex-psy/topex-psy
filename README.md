@@ -11,9 +11,9 @@
 
 - 👨‍💼 CEO & Founder of **Birv Teknologi Sejahtera**, CTO of **Creactive Indonesia**, Software Engineer of Nurosoft Indonesia
 
-- 👨‍💻 Want to see my projects? Check out [My Website](https://www.taufiknur.com/)
+- 📄 Know more about me & my projects on [My Website](https://taufiknr.birvee.com/)
 
-- 📄 Know about my experiences from [My Resume](https://www.linkedin.com/in/taufik-nur-rahmanda/)
+- 👨‍💻 Connect with me on [My LinkedIn](https://www.linkedin.com/in/taufik-nur-rahmanda/)
 
 - 🔭 I’m currently very active in **Flutter (Dart)**
 
