@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td><img src="yukari/yukari_by_sairalina-d8jsywr.png?raw=true" width="300" style="transform: rotate(-10deg); margin: -50px 0" /></td>
-      <td><h3 style="margin-left: -50px">A passionate software engineer specializing in mobile and web application development. A Flutter enthusiast. I've developed & published many apps on Play Store.</h3></td>
+      <td><h3 style="margin-left: -50px">Professional software engineer specializing in mobile and web application development. A Flutter enthusiast. I've developed & published many apps on Play Store.</h3></td>
     </tr>
   </tbody>
 </table>
@@ -13,9 +13,9 @@
 
 - 👨‍💻 Want to see my projects? Check out [My Website (AMP-compliant)](https://www.taufiknur.com/index.html) and also [My Website (fully optimized PHP)](https://www.taufiknur.com/)
 
-- 👨‍💻 Connect with me on [My LinkedIn](https://www.linkedin.com/in/taufik-nur-rahmanda/)
+- 👥 Connect with me on [My LinkedIn](https://www.linkedin.com/in/taufik-nur-rahmanda/)
 
-- 🔭 I'm currently enthusiastic about **Flutter**
+- 👀 I'm currently enthusiastic about **Flutter**
 
 - 💬 Ask me about **Flutter**
 
