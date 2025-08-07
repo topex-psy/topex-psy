@@ -1,27 +1,25 @@
-<h1>Hi ..... I'm TopEx 👋</h1>
+<h1>Hi ..... I'm Taufik 👋</h1>
 
 <table style="margin-left: -100px">
   <tbody>
     <tr>
       <td><img src="yukari/yukari_by_sairalina-d8jsywr.png?raw=true" width="300" style="transform: rotate(-10deg); margin: -50px 0" /></td>
-      <td><h3 style="margin-left: -50px">A full-stack developer and Flutter enthusiast from Indonesia. I've developed many Flutter app. I also a modern web programmer & designer, and former Android (Kotlin) developer.</h3></td>
+      <td><h3 style="margin-left: -50px">A passionate software engineer specializing in mobile and web application development. A Flutter enthusiast. I've developed & published many apps on Play Store.</h3></td>
     </tr>
   </tbody>
 </table>
 
-- 👨‍💼 CEO of **TaufikNur Production**, CTO of **Creactive Indonesia**, Software Engineer of Nurosoft Indonesia, Shareholder of Tesla, Inc.
+- 👨‍💼 CEO & Founder of **TARRA Soft**, Co-Founder of **TARRA Co**, Software Engineer of **Nurosoft Indonesia**.
 
-- 👨‍💻 Want to see my projects? Check out [My Website](https://www.taufiknur.com/)
+- 👨‍💻 Want to see my projects? Check out [My Website (AMP-compliant)](https://www.taufiknur.com/index.html) and also [My Website (fully optimized PHP)](https://www.taufiknur.com/)
 
 - 📄 Know about my experiences from [My Resume](https://www.linkedin.com/in/taufik-nur-rahmanda/)
 
-- 🔭 I’m currently learning **Flutter**
+- 🔭 I'm currently enthusiastic about **Flutter**
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **flias.test@gmail.com**
-
-- 💍 Btw, I’m looking for \*chough\*pettanko\*chough\* programmer gurl
+- 📫 Send me a message **flias.test@gmail.com**
 
 <img src="yukari/4042346.png?raw=true" width="200"/>
 
