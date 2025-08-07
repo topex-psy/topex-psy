@@ -13,7 +13,7 @@
 
 - 👨‍💻 Want to see my projects? Check out [My Website (AMP-compliant)](https://www.taufiknur.com/index.html) and also [My Website (fully optimized PHP)](https://www.taufiknur.com/)
 
-- 📄 Know about my experiences from [My Resume](https://www.linkedin.com/in/taufik-nur-rahmanda/)
+- 👨‍💻 Connect with me on [My LinkedIn](https://www.linkedin.com/in/taufik-nur-rahmanda/)
 
 - 🔭 I'm currently enthusiastic about **Flutter**
 
